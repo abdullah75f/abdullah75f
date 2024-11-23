@@ -23,18 +23,8 @@
 </div>
 
 <h2 align="center">📈 Performance Overview 📈</h2>
-
 <br/>
 
-<h2 align="center">📈 Performance Overview 📈</h2>
-
-<br/>
-
-<h2 align="center">📈 Performance Overview 📈</h2>
-
-<br/>
-
-<!-- Using a table to align images properly with no background -->
 <table align="center" style="border: none; background-color: transparent;">
   <tr>
     <td style="background-color: transparent; border: none;"><img width="400" src="https://streak-stats.demolab.com/?user=abdullah75f&count_private=true&theme=react&border_radius=10" alt="streak stats"/></td>
@@ -51,21 +41,3 @@
 <hr/>
 <br/>
 
-
-
-
-
-<!--
-**abdullah75f/abdullah75f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
