@@ -25,24 +25,21 @@
 <h2 align="center">📈 Performance Overview 📈</h2>
 
 <br/>
-<div align="center">
-  <!-- Flexbox for responsive layout -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <!-- Streak Stats -->
-    <img width="400" src="https://streak-stats.demolab.com/?user=abdullah75f&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    
-    <!-- GitHub Stats -->
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=abdullah75f&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
-    <!-- Top Languages -->
-    <img width="375" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah75f&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  </div>
-</div>
+<!-- Using a table to align images properly -->
+<table align="center">
+  <tr>
+    <td><img width="400" src="https://streak-stats.demolab.com/?user=abdullah75f&count_private=true&theme=react&border_radius=10" alt="streak stats"/></td>
+    <td><img width="400" src="https://github-readme-stats.vercel.app/api?username=abdullah75f&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img width="375" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah75f&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /></td>
+  </tr>
+</table>
 
 <br/><br/>
 <hr/>
 <br/>
-
 
 
 
