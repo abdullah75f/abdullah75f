@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/abdullah_75f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fikre_anteneh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdullah-75f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fikremariamanteneh" height="30" width="40" /></a>
-<a href="https://fb.com/Abdullah Farid " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fikre anteneh" height="30" width="40" /></a>
-<a href="https://instagram.com/abdullah_75f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fikre.anteneh" height="30" width="40" /></a>
+<a href="https://twitter.com/abdullah_75f" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdullah_75f" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdullah-75f" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah_75f" height="30" width="40" /></a>
+<a href="https://fb.com/Abdullah Farid " target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah_75f" height="30" width="40" /></a>
+<a href="https://instagram.com/abdullah_75f" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullah_75f" height="30" width="40" /></a>
 </p>
 
 
