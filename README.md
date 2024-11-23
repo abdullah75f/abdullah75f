@@ -17,6 +17,27 @@
 <a href="https://instagram.com/abdullah_75f" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullah_75f" height="30" width="40" /></a>
 </p>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,golang,express,mongodb,c,cpp,java,mysql,postgresql" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,nestjs,express,mongodb,cpp,java,mysql,postgresql" /><br>
+</div>
+
+<br/>
+<hr/>
+
+
 
 
 <!--
