@@ -22,20 +22,8 @@
 
 <h2 align="center">📈 Performance Overview 📈</h2>
 <br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah75f&show_icons=true&locale=en&layout=compact" alt="abdullah75f" /></p>
 
-<table align="center" style="border: none; background-color: transparent;">
-  <tr>
-    <td style="background-color: transparent; border: none;"><img width="400" src="https://streak-stats.demolab.com/?user=abdullah75f&count_private=true&theme=react&border_radius=10" alt="streak stats"/></td>
-    <td style="background-color: transparent; border: none;"><img width="400" src="https://github-readme-stats.vercel.app/api?username=abdullah75f&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" style="background-color: transparent; border: none;">
-      <img width="375" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah75f&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-    </td>
-  </tr>
-</table>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah75f&show_icons=true&locale=en" alt="abdullah75f" /></p>
 
-<br/><br/>
-<hr/>
-<br/>
 
